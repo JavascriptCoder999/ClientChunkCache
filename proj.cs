@@ -8,10 +8,12 @@ namespace ComputerCrash
             int i = 0;
       while (i < 1000000000000000000) 
       {
-        Console.WriteLine(i);
         i++;
       }
     }
   }
 }
 //this is a computer crash 😀
+//the number one trillion is too much for the desktop to handle, so it crashes
+//wow
+//!
