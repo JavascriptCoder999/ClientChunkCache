@@ -17,5 +17,6 @@ namespace ComputerCrash
 //the number one trillion is too much for the desktop to handle, so it crashes
 //wow
 //!
-Console.WriteLine("Your computer has crashed, please reboot all of everything!");
-  
+  string name="Your computer has crashed, please reboot all of everything!";
+Console.WriteLine(name);
+bool name_true_boolean_logic=true;
