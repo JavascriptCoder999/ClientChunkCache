@@ -1,6 +1,1 @@
-switch
-case 1:
-//boolean logic
-if($this.isKeyPressed(Keys.a)){
-$
-}
+
