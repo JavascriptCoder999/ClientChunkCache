@@ -6,4 +6,3 @@ if($this.scene.state()=="PLAY"{
   var hits=0;
 }
 //if you hit a target, the score points you get are doubled by a trillion
-   
