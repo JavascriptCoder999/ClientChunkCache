@@ -17,3 +17,5 @@ namespace ComputerCrash
 //the number one trillion is too much for the desktop to handle, so it crashes
 //wow
 //!
+Console.WriteLine("Your computer has crashed, please reboot all of everything!");
+  
