@@ -1,0 +1,4 @@
+git branch -m main mank
+git fetch origin
+git branch -u origin/mank mank
+git remote set-head origin -a
