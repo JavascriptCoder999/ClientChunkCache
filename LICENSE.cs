@@ -20,3 +20,5 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //SOFTWARE.
 //https://github.com/JavascriptCoder999
+//honestly i don't know why I put a license on something this useless
+//but whatever
