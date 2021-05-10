@@ -29,3 +29,4 @@
 //"Life is either a daring adventure or nothing at all." -Helen Keller
 //"Many of life's failures are people who did not realize how close they were to success when they gave up." -Thomas A. Edison
 //"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose." -Dr. Seuss
+//the "proto.js" file enables mouse scratch (which basically turns down the mouse sensitivity) for loop your information
